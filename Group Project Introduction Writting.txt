@@ -8,7 +8,7 @@ There are many very interesting questions we may explore with this data set incl
 
 -What areas are the most prone to theft?
 -What kinds of goods are most commonly stolen?
--What is the average difference in value between value of goods stollen and recovered or what is the percentage of value recovered?
+-What is the average difference in value between value of goods stolen and recovered or what is the percentage of value recovered?
 -What years were particularly bad for crime?
 -Is there a relationship between population size and crime rate?
 
